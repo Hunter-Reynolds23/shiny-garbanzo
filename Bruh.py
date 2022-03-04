@@ -1,1 +1,1 @@
-print("Bruh Moment")
+print("Bruh")
